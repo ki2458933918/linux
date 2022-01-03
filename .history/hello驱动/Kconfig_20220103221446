@@ -1,0 +1,2 @@
+config HELLO
+    boot "hello devices test"
